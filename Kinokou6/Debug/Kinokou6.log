@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (Kinokou6.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Kinokou_1.cpp
+C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Kinokou_1.cpp(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Character.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Character.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Kinokou_1.cpp(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Player.h(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Kinokou_1.cpp(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Enemy.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Kinokou6.vcxproj -> C:\Users\Midouch\Desktop\work\Ydays\C++\alpha2\Kinokou_Alpha2.4\Kinokou6\Debug\Kinokou_1.exe
